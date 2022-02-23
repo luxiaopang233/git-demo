@@ -12,9 +12,6 @@ hello luxiaming
 hello luxiaming 
 hello luxiaming 
 hello luxiaming 
-<<<<<<< HEAD
 hello luxiaming master
-======= 
->>>>>>> hot-fix
 hello luxiaming hot-fix test
 111111111111111111
